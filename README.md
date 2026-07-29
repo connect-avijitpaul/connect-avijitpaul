@@ -37,13 +37,6 @@
 
 <hr>
 
-<h2>🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=connect-avijitpaul&theme=darkhub&no-frame=true&row=1" alt="Avijit's GitHub Trophies" />
-</p>
-
-<hr>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=connect-avijitpaul&color=blueviolet" alt="profile views" />
 </p>
