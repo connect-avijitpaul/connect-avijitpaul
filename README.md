@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Avijit Paul</h1>
-<p align="center">Computer Science Student | Aspiring Full-Stack Web Developer</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Avijit%20Paul&fontSize=50&fontColor=fff" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9AB7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Learning+something+new+every+day" />
+</p>
+
+<hr>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -13,6 +18,8 @@
   <a target="_blank" href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
+<hr>
+
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://x.com/connect_avijit"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
@@ -21,10 +28,25 @@
   <a target="_blank" href="https://www.instagram.com/connect.avijitpaul/"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
+<hr>
+
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=connect-avijitpaul&show_icons=true&theme=dark" alt="Avijit's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=connect-avijitpaul&theme=dark" alt="Avijit's GitHub Streak" />
+</p>
+
+<hr>
+
+<h2>🏆 Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=connect-avijitpaul&theme=darkhub&no-frame=true&row=1" alt="Avijit's GitHub Trophies" />
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=connect-avijitpaul&color=blueviolet" alt="profile views" />
 </p>
