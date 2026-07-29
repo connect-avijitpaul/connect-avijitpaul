@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Avijit Paul</h1>
-<p>Computer Science Student | Aspiring Full-Stack Web Developer</p>
+<h1 align="center">Hi 👋, I'm Avijit Paul</h1>
+<p align="center">Computer Science Student | Aspiring Full-Stack Web Developer</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -26,5 +26,5 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=connect-avijitpaul&show_icons=true&theme=dark" alt="Avijit's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connect-avijitpaul&theme=dark" alt="Avijit's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=connect-avijitpaul&theme=dark" alt="Avijit's GitHub Streak" />
 </p>
