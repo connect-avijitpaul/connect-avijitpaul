@@ -1,8 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Avijit%20Paul&fontSize=50&fontColor=fff" width="100%" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9AB7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Learning+something+new+every+day" />
-</p>
+<h1 align="center">Hi 👋, I'm Avijit Paul</h1>
+<p align="center">Computer Science Student | Aspiring Full-Stack Web Developer</p>
 
 <hr>
 
@@ -42,7 +39,7 @@
 
 <h2>🏆 Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=connect-avijitpaul&theme=darkhub&no-frame=true&row=1" alt="Avijit's GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=connect-avijitpaul&theme=darkhub&no-frame=true&row=1" alt="Avijit's GitHub Trophies" />
 </p>
 
 <hr>
