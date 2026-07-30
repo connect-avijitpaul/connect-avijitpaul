@@ -65,12 +65,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=connect-avijitpaul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats-eight-flame.vercel.app/api?username=connect-avijitpaul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img height="165" src="https://streak-stats.demolab.com/?user=connect-avijitpaul&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connect-avijitpaul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-flame.vercel.app/api/top-langs/?username=connect-avijitpaul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 <br>
