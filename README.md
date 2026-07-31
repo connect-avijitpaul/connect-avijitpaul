@@ -40,28 +40,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,figma,vscode,git,github,linux&theme=dark" />
 </p>
 
-<br>
-
-<h3 align="center">🎯 Featured Projects</h3>
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-**🔹 [Project Name](https://github.com/connect-avijitpaul/project-repo)**
-Short one-line description of what this project does and what you used to build it.
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**🔹 [Project Name](https://github.com/connect-avijitpaul/project-repo)**
-Short one-line description of what this project does and what you used to build it.
-`React` `Node.js`
-
-</td>
-</tr>
-</table>
-<p align="center"><i>👉 Replace these with your actual pinned repos — this section is what people check first.</i></p>
 
 <br>
 
